@@ -1,16 +1,20 @@
-## Hi there 👋
+## Nice to meet you!
 
-<!--
-**addyhalos/addyhalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Addy Halos, an experienced Data Analytics Engineer having worked in notable ecommerce companies such as Shopee, Lalafood, and Zoom2u Australia.
+Today, I am freelancing, continually expanding my knowledge in all aspects of data science.
 
-Here are some ideas to get you started:
+See more of my work [here](https://github.com/addyhalos/datascience-portfolio/blob/main/README.md).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Skills
+- Data Analytics
+- Strategy
+- Data Visualization
+- SQL
+- Python
+- Javascript
+- ETL
+- Cloud Platform (AWS, Azure, GCP, etc.)
+  
+### Contact Details
+adrieldphalos@gmail.com
+[LinkedIn](https://www.linkedin.com/in/addy-halos/)
